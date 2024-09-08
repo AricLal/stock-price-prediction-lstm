@@ -1,0 +1,18 @@
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folder
+venv/
+.venv/
+
+# Ignore IDE settings (for PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Ignore OS-generated files (for macOS)
+.DS_Store
+
+# Ignore log files
+*.log
